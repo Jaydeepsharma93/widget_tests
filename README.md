@@ -1,16 +1,5 @@
 # widget_tests
 
-A new Flutter project.
+## 1.Glass Morphism Effect Using Flutter
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/Jaydeepsharma93/widget_tests/assets/143181361/0cce36a0-8bd9-48c9-9eba-17ca75372fec" width = 32%>
